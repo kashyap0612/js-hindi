@@ -9,4 +9,4 @@ let account_state
 console.log(account_Id);
 account_email = "hc@gmail.com"
 console.log(account_email);
-console.table[account_Id,account_email,account_password,account_city,account_state]
+console.table([account_Id,account_email,account_password,account_city,account_state])
