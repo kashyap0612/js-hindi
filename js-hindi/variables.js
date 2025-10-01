@@ -10,3 +10,7 @@ console.log(account_Id);
 account_email = "hc@gmail.com"
 console.log(account_email);
 console.table([account_Id,account_email,account_password,account_city,account_state])
+
+/* 
+Prefer not to use var because of issue in block scope and functional scope 
+*/
